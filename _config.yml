@@ -39,7 +39,7 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: Alex McKay编辑 西藏历史 1895-1959
+- label: 西藏历史 1895-1959
   url: /index.html
 
 # Links shown below the TOC in the sidebar
