@@ -1,10 +1,10 @@
 ---
 slug: book
-title: Demo Book
+title: 西藏历史 1895-1959
 abstract: An example book for showcasing the Jekyll Chapterbook theme.
 ---
 
-By Jason Grimes
+By slad2019
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
@@ -16,7 +16,9 @@ Last updated: {{ "now" | date: "%B %e, %Y" }}
 {% endif %}
 
 ---
+
 ```
 This file is located at: {{ page.path }}
 ```
+
 ---
