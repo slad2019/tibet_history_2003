@@ -4,7 +4,15 @@ title: 西藏历史 1895-1959
 abstract: An example book for showcasing the Jekyll Chapterbook theme.
 ---
 
-By slad2019
+English Version:
+The History of Tibet
+Edited by Alex Mckay
+Volume III
+The Modern Period: 1895-1959
+The Encounter with Modernity
+First published 2003 by Routledge Curzon
+
+Chinese translated by slad2019
 
 Copyright &copy; {{"now" | date: "%Y"}} by {{site.author}}.
 
